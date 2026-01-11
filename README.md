@@ -67,3 +67,5 @@ The app reads/writes data in nodes like:
 
 ## Note about secrets 
 Some tokens/credentials are currently inside the code (like Mapbox token and SMTP email settings). This is okay for a learning project, but in a real project you should not commit secrets into source code. They should be stored in a safer place (configuration, environment variables, or a backend).
+
+## By Abdalrouf && Anas && Assel
